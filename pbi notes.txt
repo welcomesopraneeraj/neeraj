@@ -1,0 +1,12 @@
+3 types of interactions in powerBI:
+
+1. highlight action
+2. filter
+2. none 
+
+sometixmes cliemts will ask yiou to change defauly visulixation behavior
+
+power query - ETL
+power pivot - Data sets
+power view - data visualization
+power BI service- to share the visualizations with clients
